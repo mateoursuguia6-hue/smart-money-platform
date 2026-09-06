@@ -1,0 +1,1 @@
+npm install react react-dom next typescript @types/react @types/node tailwindcss
